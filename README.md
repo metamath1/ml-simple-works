@@ -14,6 +14,7 @@ nbviewer를 통해 보거나 https://metamath1.github.io/ 에서 확인하는 �
 
 
 ## 지금까지 정리된 내용
+- 야코비안Jacobian과 치환적분, sampling/double-integral.ipynb
 
 - 베이즈정리와 정규분포의 곱, fitting/product-of-gaussian.ipynb
 
