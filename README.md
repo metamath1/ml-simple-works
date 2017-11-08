@@ -14,6 +14,8 @@ nbviewer를 통해 보거나 https://metamath1.github.io/ 에서 확인하는 �
 
 
 ## 지금까지 정리된 내용
+- 다변수 가우시안 확률분포multi-variable normal에서 사전확률분포prior, 사후확률분포posterior, 조건부확률분포conditional와 주변확률분포marginal : Pattern Recognition and Machine Learning - Chap. 2-1 , PRML/prml-chap2.ipynb
+
 - 야코비안Jacobian과 치환적분, sampling/double-integral.ipynb
 
 - 베이즈정리와 정규분포의 곱, fitting/product-of-gaussian.ipynb
