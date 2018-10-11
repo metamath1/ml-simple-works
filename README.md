@@ -15,6 +15,8 @@ nbviewer를 통해 보거나 https://metamath1.github.io/ 에서 확인하는 �
 
 ## 지금까지 정리된 내용
 
+- 서포트벡터머신을 위한 비선형 계획 문제의 쌍대정리Duality in Non-Linear Programming for Support Vector Machine 
+
 - 대칭행렬의 대각화와 특잇값 분해Symmetric matrix Diagonalization and Singular Value Decomposition
 
 - 벡터, 행렬에 대한 미분Derivatives for vectors and matrices
