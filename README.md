@@ -15,13 +15,17 @@ nbviewer를 통해 보거나 https://metamath1.github.io/ 에서 확인하는 �
 
 ## 지금까지 정리된 내용
 
-- 합성곱 신경망에서 컨벌루션과 트랜스포즈드 컨벌루션의 관계 Relationship between Convolution and Transposed Convolution in CNN 
+- K 평균 군집화 K-means Clustering, EM/Kmeans.ipynb
 
-- 서포트벡터머신을 위한 비선형 계획 문제의 쌍대정리Duality in Non-Linear Programming for Support Vector Machine 
+- 역전파 알고리즘 완전정복 A Step by Step Backpropagation, BP/bp.ipynb
 
-- 대칭행렬의 대각화와 특잇값 분해Symmetric matrix Diagonalization and Singular Value Decomposition
+- 합성곱 신경망에서 컨벌루션과 트랜스포즈드 컨벌루션의 관계 Relationship between Convolution and Transposed Convolution in CNN, CNN/transconv_fullconv.ipynb 
 
-- 벡터, 행렬에 대한 미분Derivatives for vectors and matrices
+- 서포트벡터머신을 위한 비선형 계획 문제의 쌍대정리Duality in Non-Linear Programming for Support Vector Machine, svm/duality.ipynb 
+
+- 대칭행렬의 대각화와 특잇값 분해Symmetric matrix Diagonalization and Singular Value Decomposition, svd/svd.ipynb
+
+- 벡터, 행렬에 대한 미분Derivatives for vectors and matrices, fitting/matrix-derivative.ipynb
 
 - 다변수 가우시안 확률분포multi-variable normal에서 사전확률분포prior, 사후확률분포posterior, 조건부확률분포conditional와 주변확률분포marginal : Pattern Recognition and Machine Learning - Chap. 2-1 , PRML/prml-chap2.ipynb
 
