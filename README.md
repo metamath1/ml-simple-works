@@ -15,6 +15,8 @@ nbviewer를 통해 보거나 https://metamath1.github.io/ 에서 확인하는 �
 
 ## 지금까지 정리된 내용
 
+- PRML 9장 EM 알고리즘 완전분석 Expectation-Maximization, EM/em_algorithm.ipynb
+
 - K 평균 군집화 K-means Clustering, EM/Kmeans.ipynb
 
 - 역전파 알고리즘 완전정복 A Step by Step Backpropagation, BP/bp.ipynb
