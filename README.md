@@ -16,7 +16,7 @@ nbviewer를 통해 보거나 https://metamath1.github.io/ 에서 확인하는 �
 ## 지금까지 정리된 내용
 
 - 어텐션 쉽게 이해하기Attention is easy to understand.
-- 
+  
 - PRML 부록 D 변분법 내용 정리 PRML/calculus-of-variations.ipynb
 
 - PRML 9장 EM 알고리즘 완전분석 Expectation-Maximization, EM/em_algorithm.ipynb
