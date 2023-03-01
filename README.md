@@ -15,6 +15,8 @@ nbviewer를 통해 보거나 https://metamath1.github.io/ 에서 확인하는 �
 
 ## 지금까지 정리된 내용
 
+- 친절한 영어-한국어 번역기 만들기A Gentle Introduction to Creating an English-to-Korean translator with Transformers
+
 - 친절한 그래디언트 부스팅A Gentle Introduction to Gradient Boosting
 
 - 진짜로(?) 주석 달린 트랜스포머 Really annotated transformers 
