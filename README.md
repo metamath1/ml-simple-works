@@ -15,7 +15,11 @@ nbviewer를 통해 보거나 구블로그 https://metamath1.github.io/,  신블�
 
 ## 지금까지 정리된 내용
 
-- 천철한 디표전 모델 1편: DDPM 이론편
+- 친절한 디퓨전 모델 2-2편: DDPM 실습 파이토치편
+
+- 친절한 디퓨전 모델 2-1편: DDPM 실습 텐서플로편
+
+- 천철한 디퓨전 모델 1편: DDPM 이론편
 
 - 친절한 영어-한국어 번역기 만들기A Gentle Introduction to Creating an English-to-Korean translator with Transformers
 
