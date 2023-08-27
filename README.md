@@ -8,12 +8,14 @@
 
 ipynb 파일은 github에서 직접 보면 수식이 깨지고 예쁘게 나오지 않기 때문에
 
-nbviewer를 통해 보거나 https://metamath1.github.io/ 에서 확인하는 것을 추천합니다.
+nbviewer를 통해 보거나 구블로그 https://metamath1.github.io/,  신블로그 https://metamath1.github.io/blog 에서 확인하는 것을 추천합니다.
 
 그리고 PC에서만 보시길 권해드립니다. 모바일에서는 수식이 보기 좋지 않아서......
 
 
 ## 지금까지 정리된 내용
+
+- 천철한 디표전 모델 1편: DDPM 이론편
 
 - 친절한 영어-한국어 번역기 만들기A Gentle Introduction to Creating an English-to-Korean translator with Transformers
 
